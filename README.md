@@ -1,7 +1,7 @@
 distPi
 ===================================================
 
-Proof-of-concept distributed microservice architecture. Utilizing Redis for data-distribution, and Protobuf for modeling data-flow.  This stack was chosen for easy remote-monitoring, and portability between Windows and Linux.  Tested in Windows 10, and the Raspberry Pi OS.
+Proof-of-concept distributed microservice architecture. Utilizing Redis Pub/Sub for data-distribution, and Protobuf for modeling data-flow.  This stack was chosen for easy remote-monitoring, and portability between Windows and Linux.  Tested in Windows 10, and the Raspberry Pi OS.
 
 ![Screenshot](doc/screenshot.png "")
 
